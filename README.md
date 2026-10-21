@@ -100,13 +100,6 @@ cp -r takeone/ /xampp/htdocs/
 # y accede a http://localhost/takeone
 ```
 
-### Usuarios de prueba
-
-| Rol | Usuario | Contraseña |
-|-----|---------|------------|
-| Admin | `adminmaria` | `Adminmaria1234!` |
-| Usuario | `mariamv` | `Maria1234!` |
-
 ---
 
 ## Arquitectura del proyecto
